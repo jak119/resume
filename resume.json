@@ -172,20 +172,12 @@
     {
       "name": "Azure",
       "level": "",
-      "keywords": [
-        "Compute",
-        "Storage",
-        "Policy",
-        "Cost Optimization"
-      ]
+      "keywords": ["Compute", "Storage", "Policy", "Cost Optimization"]
     },
     {
       "name": "Scripting",
       "level": "",
-      "keywords": [
-        "PowerShell",
-        "Bash"
-      ]
+      "keywords": ["PowerShell", "Bash"]
     }
   ],
   "languages": [
@@ -197,9 +189,7 @@
   "interests": [
     {
       "name": "Aviation",
-      "keywords": [
-        "Student Pilot"
-      ]
+      "keywords": ["Student Pilot"]
     }
   ],
   "references": [],
