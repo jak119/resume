@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "npm-run-all build:*",
-    "build:html": "resumed --output public/index.html",
+    "build:html": "resumed --output public/index.html && cp public/index.html public/404.html",
     "cleanup": "rm -rf public",
     "format": "prettier --ignore-path .gitignore --write .",
     "postcleanup": "mkdir public",
