@@ -1,0 +1,211 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Jamison Kissh",
+    "label": "Azure Architect",
+    "image": "",
+    "url": "https://jamisonkissh.com",
+    "summary": "Jamison is an Azure Architect serving clients at PwC and a former systems administrator with Boston University Questrom School of Business.",
+    "location": {
+      "city": "Peabody",
+      "region": "MA",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jamisonkissh",
+        "url": "https://www.linkedin.com/in/jamisonkissh/"
+      },
+      {
+        "network": "GitHub",
+        "username": "jak119",
+        "url": "https://github.com/jak119"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "PwC",
+      "position": "Manager",
+      "startDate": "2021-07-31",
+      "highlights": [
+        "Created Azure Policy definitons and CI/CD pipeline for a Fortune 500 client"
+      ],
+      "summary": "As a manager in PwC's Microsoft Platform Engineering practice, I oversee the technical delivery of Azure projects for clients",
+      "url": "https://www.pwc.com/",
+      "location": "Austin, TX"
+    },
+    {
+      "name": "PwC",
+      "position": "Senior Associate",
+      "startDate": "2018-07-31",
+      "endDate": "2021-07-31",
+      "highlights": [
+        "Created automation to reduce manual effort during disaster recovery activities including testing and disaster declaration",
+        "Built Azure cost optimization analysis on Azure Databricks for repeatable Azure billing data analysis",
+        "Designed and built an automated deployment for a globally distributed data platform in Azure using Terraform and Jenkins"
+      ],
+      "summary": "Consulted with organizations on cloud strategy and implementation, focusing mostly in Azure.",
+      "url": "https://www.pwc.com/",
+      "location": "Boston, MA"
+    },
+    {
+      "name": "PwC",
+      "position": "Associate",
+      "startDate": "2016-10-31",
+      "endDate": "2018-07-31",
+      "highlights": [
+        "Performed a large scale Azure design and implementation for a large utility company",
+        "Designed and implemented a hosted data analytics service for a Fortune 500 client"
+      ],
+      "summary": "",
+      "url": "https://www.pwc.com/",
+      "location": "Boston, MA"
+    },
+    {
+      "name": "Boston University Questrom School of Business",
+      "position": "System Administrator",
+      "startDate": "2013-08-31",
+      "endDate": "2016-10-31",
+      "highlights": [
+        "Selected and implemented VMware Horizon DaaS offering for students",
+        "Assisted in selection and responsible for implementation of VMware Disaster Recovery as a Service (vCloud DRaaS) for key services within Questrom",
+        "Assisted in planning and oversight of classroom AV modernization and standardization while introducing new collaborative spaces and technology",
+        "Implemented server administration and automation with Ansible",
+        "Implemented Nagios monitoring engine for Linux and Windows servers"
+      ],
+      "summary": "Responsible for the day to day operations of the Questrom School of Business' IT systems",
+      "url": "https://questrom.bu.edu/",
+      "location": "Boston, MA"
+    },
+    {
+      "name": "Boston University Questrom School of Business",
+      "position": "Adjunct Instructor",
+      "startDate": "2014-09-30",
+      "endDate": "2015-05-31",
+      "highlights": [],
+      "summary": "Adjunct instructor for new IS 223 \"Information Systems in Context\" class for the Fall 2014 and Spring 2015 semesters.",
+      "url": "https://questrom.bu.edu/",
+      "location": "Boston, MA"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Boston University",
+      "area": "Computer Information Systems, Security",
+      "studyType": "Master of Science (M.S.)",
+      "startDate": "2015-12-31",
+      "endDate": "2019-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Boston University",
+      "area": "Business Administration and Management, General",
+      "studyType": "BSBA",
+      "startDate": "2009-12-31",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "2015 Dean's Award for Outstanding Contributions to Operational Excellence",
+      "date": "2015-05-31",
+      "awarder": "Boston University Questrom School of Business Dean's Office",
+      "summary": "Inaugural award given to two staff members for exceptional contributions to the daily operations of the school."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services (AWS)",
+      "date": "2021-03-31",
+      "url": "https://www.credly.com/badges/1b3fd8a4-db7e-4c7c-bf41-09ef58226415?source=linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified: Azure Solutions Architect Expert",
+      "issuer": "Microsoft",
+      "date": "2020-07-31",
+      "url": "https://www.youracclaim.com/badges/81992e22-66d9-44cd-afe7-12e60a0f8ffb/linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified: Azure Administrator Associate",
+      "issuer": "Microsoft",
+      "date": "2019-12-31",
+      "url": "https://www.youracclaim.com/badges/6343a08c-6547-4534-828e-989a36ab5322/linked_in_profile"
+    },
+    {
+      "name": "Digital Acumen",
+      "issuer": "PwC",
+      "date": "2019-05-31",
+      "url": "https://www.youracclaim.com/badges/e1503494-d9bf-4a9d-837a-21b4d4a3cbb0/linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "issuer": "Microsoft",
+      "date": "2019-11-30",
+      "url": "https://www.youracclaim.com/badges/ad4eb25a-977a-47ae-adc4-ced788b90d37/linked_in_profile"
+    },
+    {
+      "name": "MCPS: Microsoft Certified Professional",
+      "issuer": "Microsoft",
+      "date": "2017-04-30"
+    },
+    {
+      "name": "Exam 533: Implementing Microsoft Azure Infrastructure Solutions",
+      "issuer": "Microsoft",
+      "date": "2017-04-30",
+      "url": "https://www.youracclaim.com/badges/e9905756-483d-4d4b-8539-6f535e610f1c/public_url"
+    },
+    {
+      "name": "ITIL Foundation Certificate in IT Service Management",
+      "issuer": "PEOPLECERT",
+      "date": "2015-07-31"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Azure",
+      "level": "",
+      "keywords": [
+        "Compute",
+        "Storage",
+        "Policy",
+        "Cost Optimization"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "level": "",
+      "keywords": [
+        "PowerShell",
+        "Bash"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Aviation",
+      "keywords": [
+        "Student Pilot"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
