@@ -5,7 +5,7 @@
     "label": "Azure Architect",
     "image": "",
     "url": "https://jamisonkissh.com",
-    "summary": "Jamison is an Azure Architect serving clients at PwC and a former systems administrator with Boston University Questrom School of Business.",
+    "summary": "Jamison is an Azure Architect serving clients at PwC. He's a former systems administrator with Boston University Questrom School of Business.",
     "location": {
       "city": "Peabody",
       "region": "MA",
@@ -172,12 +172,22 @@
     {
       "name": "Azure",
       "level": "",
-      "keywords": ["Compute", "Storage", "Policy", "Cost Optimization"]
+      "keywords": ["Compute", "Storage", "Networking", "Policy / Governance", "Cost Optimization"]
     },
     {
-      "name": "Scripting",
+      "name": "Scripting and Infrastructure as Code",
       "level": "",
-      "keywords": ["PowerShell", "Bash"]
+      "keywords": ["PowerShell", "Bash", "Terraform"]
+    },
+    {
+      "name": "Containerization",
+      "level": "",
+      "keywords": ["Docker", "Kubernetes"]
+    },
+    {
+      "name": "DevOps Tools",
+      "level": "",
+      "keywords": ["Git", "Azure DevOps", "Jenkins", "Concord"]
     }
   ],
   "languages": [
