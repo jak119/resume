@@ -3,7 +3,7 @@
   "basics": {
     "name": "Jamison Kissh",
     "label": "Azure Architect",
-    "image": "",
+    "picture": "jamison_kissh.jpg",
     "url": "https://jamisonkissh.com",
     "summary": "Jamison is an Azure Architect serving clients at PwC. He's a former systems administrator with Boston University Questrom School of Business.",
     "location": {
@@ -171,12 +171,12 @@
   "skills": [
     {
       "name": "Azure",
-      "level": "",
+      "level": "Master",
       "keywords": ["Compute", "Storage", "Networking", "Policy / Governance", "Cost Optimization"]
     },
     {
       "name": "Scripting and Infrastructure as Code",
-      "level": "",
+      "level": "Master",
       "keywords": ["PowerShell", "Bash", "Terraform"]
     },
     {
