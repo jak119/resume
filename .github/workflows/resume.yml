@@ -34,9 +34,9 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           enable_jekyll: false
-      - name: Deploy to Azure Storage
-        uses: tibor19/static-website-deploy@v1
-        with:
-          enabled-static-website: 'true'
-          folder: 'public'
-          connection-string: ${{ secrets.STORAGE_CONNECTION_STRING }}
+#       - name: Deploy to Azure Storage
+#         uses: tibor19/static-website-deploy@v1
+#         with:
+#           enabled-static-website: 'true'
+#           folder: 'public'
+#           connection-string: ${{ secrets.STORAGE_CONNECTION_STRING }}
