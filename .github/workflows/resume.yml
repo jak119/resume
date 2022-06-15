@@ -29,14 +29,9 @@ jobs:
       - run: npm test
       - run: npm run build --if-present
       - name: Deploy to GH Pages
+        if: ${{ github.event_name == 'push' }}
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           enable_jekyll: false
-#       - name: Deploy to Azure Storage
-#         uses: tibor19/static-website-deploy@v1
-#         with:
-#           enabled-static-website: 'true'
-#           folder: 'public'
-#           connection-string: ${{ secrets.STORAGE_CONNECTION_STRING }}
