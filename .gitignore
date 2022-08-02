@@ -160,3 +160,4 @@ dist
 public/*
 !public/jamison_kissh.jpg
 !public/CNAME
+.vscode/settings.json
