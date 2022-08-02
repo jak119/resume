@@ -5,6 +5,11 @@
     "format": "prettier --ignore-path .gitignore --write .",
     "test": "resumed validate"
   },
+  "release-it": {
+    "github": {
+      "release": true
+    }
+  },
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
     "resumed": "^1.0.3"
