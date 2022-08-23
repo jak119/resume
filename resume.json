@@ -178,7 +178,13 @@
     {
       "name": "Azure",
       "level": "Master",
-      "keywords": ["Compute", "Storage", "Networking", "Policy / Governance", "Cost Optimization"]
+      "keywords": [
+        "Compute",
+        "Storage",
+        "Networking",
+        "Policy / Governance",
+        "Cost Optimization"
+      ]
     },
     {
       "name": "Scripting and Infrastructure as Code",
