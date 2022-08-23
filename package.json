@@ -1,12 +1,14 @@
 {
   "scripts": {
     "build": "npm-run-all build:*",
-    "build:html": "resumed --output public/index.html && cp public/index.html public/404.html",
+    "build:html": "resumed --theme elegant --output public/index.html && cp public/index.html public/404.html",
+    "build:pdf": "resumed --theme paper --output public/print.html",
     "format": "prettier --ignore-path .gitignore --write .",
     "test": "resumed validate"
   },
   "dependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-paper": "^0.5.0",
     "resumed": "^1.0.3"
   },
   "devDependencies": {
