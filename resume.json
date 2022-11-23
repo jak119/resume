@@ -195,13 +195,13 @@
     },
     {
       "name": "Containerization",
-      "level": "",
+      "level": "Intermediate",
       "keywords": ["Docker", "Kubernetes"]
     },
     {
       "name": "DevOps Tools",
-      "level": "",
-      "keywords": ["Git", "Azure DevOps", "Jenkins", "Concord"]
+      "level": "Intermediate",
+      "keywords": ["Git", "Azure DevOps", "Jenkins"]
     }
   ],
   "languages": [
