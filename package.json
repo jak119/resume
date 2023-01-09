@@ -9,7 +9,7 @@
   "dependencies": {
     "jsonresume-theme-elegant-maksymgendin": "^1.2.0",
     "jsonresume-theme-paper": "^0.5.0",
-    "resumed": "^1.0.3"
+    "resumed": "^2.0.0"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.5",
