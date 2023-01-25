@@ -1,15 +1,15 @@
 {
   "scripts": {
     "build": "npm-run-all build:*",
-    "build:html": "resumed --theme elegant-maksymgendin --output public/index.html && cp public/index.html public/404.html",
-    "build:pdf": "resumed --theme paper --output public/print.html",
+    "build:html": "resumed --theme jsonresume-theme-elegant-maksymgendin --output public/index.html && cp public/index.html public/404.html",
+    "build:pdf": "resumed --theme jsonresume-theme-paper --output public/print.html",
     "format": "prettier --ignore-path .gitignore --write .",
     "test": "resumed validate"
   },
   "dependencies": {
     "jsonresume-theme-elegant-maksymgendin": "^1.2.0",
     "jsonresume-theme-paper": "^0.5.0",
-    "resumed": "^1.0.3"
+    "resumed": "^3.0.1"
   },
   "devDependencies": {
     "npm-run-all": "^4.1.5",
