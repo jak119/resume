@@ -123,16 +123,22 @@
   ],
   "certificates": [
     {
+      "name": "Microsoft Certified: Azure Security Engineer Associate",
+      "issuer": "Microsoft",
+      "date": "2023-03-16",
+      "url": "https://www.credly.com/badges/c7c540fb-33d4-4ad8-ae29-aab45dd12c15/public_url"
+    },
+    {
       "name": "AWS Certified Cloud Practitioner",
       "issuer": "Amazon Web Services (AWS)",
       "date": "2021-03-31",
-      "url": "https://www.credly.com/badges/1b3fd8a4-db7e-4c7c-bf41-09ef58226415?source=linked_in_profile"
+      "url": "https://www.credly.com/badges/1b3fd8a4-db7e-4c7c-bf41-09ef58226415/public_url"
     },
     {
       "name": "Microsoft Certified: Azure Solutions Architect Expert",
       "issuer": "Microsoft",
       "date": "2020-07-31",
-      "url": "https://www.youracclaim.com/badges/81992e22-66d9-44cd-afe7-12e60a0f8ffb/linked_in_profile"
+      "url": "https://www.youracclaim.com/badges/81992e22-66d9-44cd-afe7-12e60a0f8ffb/public_url"
     },
     {
       "name": "Human-Centered Design",
