@@ -6,7 +6,7 @@
     "email": "hello@jamisonkissh.com",
     "picture": "jamison_kissh.jpg",
     "url": "https://jamisonkissh.com",
-    "summary": "Jamison is an Azure Architect serving clients at PwC. He's a former systems administrator with Boston University Questrom School of Business.",
+    "summary": "Jamison is an Azure Architect serving clients at PwC.",
     "location": {
       "city": "Boston",
       "region": "MA",
@@ -28,15 +28,26 @@
   "work": [
     {
       "name": "PwC",
+      "position": "Senior Manager",
+      "startDate": "2023-07-31",
+      "highlights": [
+      ],
+      "summary": "As a Senior Manager in PwC's Microsoft Platform Engineering practice, I oversee the technical delivery of Azure projects for clients",
+      "url": "https://www.pwc.com/",
+      "location": "Boston, MA"
+    },
+    {
+      "name": "PwC",
       "position": "Manager",
       "startDate": "2021-07-31",
+      "endDate": "2023-07-01",
       "highlights": [
         "Served as the chief architect for an Azure migration and replatforming iniative migrating 100s of workloads",
         "Led a team to create Azure Policy definitons and CI/CD pipeline to release policies for a Fortune 500 client"
       ],
       "summary": "As a manager in PwC's Microsoft Platform Engineering practice, I oversee the technical delivery of Azure projects for clients",
       "url": "https://www.pwc.com/",
-      "location": "Austin, TX"
+      "location": "Boston, MA"
     },
     {
       "name": "PwC",
