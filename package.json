@@ -2,13 +2,12 @@
   "scripts": {
     "build": "npm-run-all build:*",
     "build:html": "resumed --theme jsonresume-theme-even --output public/index.html && cp public/index.html public/404.html",
-    "build:pdf": "resumed --theme jsonresume-theme-paper --output public/print.html",
+    "build:pdf": "resumed --theme jsonresume-theme-onepage-jak119 --output public/print.html",
     "test": "resumed validate"
   },
   "dependencies": {
-    "jsonresume-theme-elegant-maksymgendin": "^1.2.0",
     "jsonresume-theme-even": "^0.18.1",
-    "jsonresume-theme-paper": "^0.5.0",
+    "jsonresume-theme-onepage-jak119": "^0.0.1",
     "resumed": "^3.0.1"
   },
   "devDependencies": {
