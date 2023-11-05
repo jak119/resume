@@ -40,6 +40,12 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build --if-present
+      - name: Generate a sitemap
+        id: sitemap
+        uses: cicirello/generate-sitemap@v1
+        with:
+          base-url-path: https://resume.jamisonkissh.com/
+          path-to-root: public
       - name: Publish to Cloudflare Pages
         if: ${{ github.actor != 'dependabot[bot]' }}
         uses: cloudflare/pages-action@1
