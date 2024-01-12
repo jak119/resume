@@ -214,28 +214,17 @@
     {
       "name": "Scripting and Infrastructure as Code",
       "level": "Master",
-      "keywords": [
-        "PowerShell",
-        "Bash",
-        "Terraform"
-      ]
+      "keywords": ["PowerShell", "Bash", "Terraform"]
     },
     {
       "name": "Containerization",
       "level": "Intermediate",
-      "keywords": [
-        "Docker",
-        "Kubernetes"
-      ]
+      "keywords": ["Docker", "Kubernetes"]
     },
     {
       "name": "DevOps Tools",
       "level": "Intermediate",
-      "keywords": [
-        "Git",
-        "Azure DevOps",
-        "Jenkins"
-      ]
+      "keywords": ["Git", "Azure DevOps", "Jenkins"]
     }
   ],
   "languages": [
@@ -247,9 +236,7 @@
   "interests": [
     {
       "name": "Aviation",
-      "keywords": [
-        "Student Pilot"
-      ]
+      "keywords": ["Student Pilot"]
     }
   ],
   "references": [],
