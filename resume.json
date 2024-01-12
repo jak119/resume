@@ -6,7 +6,7 @@
     "email": "hello@jamisonkissh.com",
     "picture": "jamison_kissh.jpg",
     "url": "https://jamisonkissh.com",
-    "summary": "Jamison is an Azure Architect serving clients at PwC.",
+    "summary": "Experienced Azure Architect with a proven track record of successfully delivering complex Azure projects. Skilled in cloud infrastructure, automation, and security.",
     "location": {
       "city": "Boston",
       "region": "MA",
@@ -31,8 +31,11 @@
       "position": "Senior Manager",
       "startDate": "2023-07-31",
       "highlights": [
+        "Oversee technical delivery of Azure projects for clients",
+        "Lead cross-functional teams to achieve project success",
+        "Provide strategic guidance to clients on Azure architecture and best practices"
       ],
-      "summary": "As a Senior Manager in PwC's Microsoft Platform Engineering practice, I oversee the technical delivery of Azure projects for clients",
+      "summary": "As a Senior Manager in PwC's Engineering Cloud Foundation Center of Excellence, I oversee the technical delivery of Azure projects for clients.",
       "url": "https://www.pwc.com/",
       "location": "Boston, MA"
     },
@@ -42,10 +45,11 @@
       "startDate": "2021-07-31",
       "endDate": "2023-07-01",
       "highlights": [
-        "Served as the chief architect for an Azure migration and replatforming iniative migrating 100s of workloads",
-        "Led a team to create Azure Policy definitons and CI/CD pipeline to release policies for a Fortune 500 client"
+        "Served as the chief architect for an Azure migration and replatforming initiative, migrating 100s of workloads",
+        "Led a team to create Azure Policy definitions and CI/CD pipeline to release policies for a Fortune 500 client",
+        "Achieved a cost savings through implementing Azure cost optimization strategies"
       ],
-      "summary": "As a manager in PwC's Microsoft Platform Engineering practice, I oversee the technical delivery of Azure projects for clients",
+      "summary": "As a Manager in PwC's Microsoft Platform Engineering practice, I oversaw the technical delivery of Azure projects for clients.",
       "url": "https://www.pwc.com/",
       "location": "Boston, MA"
     },
@@ -55,11 +59,12 @@
       "startDate": "2018-07-31",
       "endDate": "2021-07-31",
       "highlights": [
-        "Created automation to reduce manual effort during disaster recovery activities including testing and disaster declaration",
+        "Created automation to reduce manual effort during disaster recovery activities, including testing and disaster declaration",
         "Built Azure cost optimization analysis on Azure Databricks for repeatable Azure billing data analysis",
-        "Designed and built an automated deployment for a globally distributed data platform in Azure using Terraform and Jenkins"
+        "Designed and built an automated deployment for a globally distributed data platform in Azure using Terraform and Jenkins",
+        "Delivered technical training and mentoring to junior team members"
       ],
-      "summary": "Consulted with organizations on cloud strategy and implementation, focusing mostly in Azure.",
+      "summary": "Consulted with organizations on cloud strategy and implementation, focusing mostly on Azure.",
       "url": "https://www.pwc.com/",
       "location": "Boston, MA"
     },
@@ -69,10 +74,11 @@
       "startDate": "2016-10-31",
       "endDate": "2018-07-31",
       "highlights": [
-        "Performed a large scale Azure design and implementation for a large utility company",
-        "Designed and implemented a hosted data analytics service for a Fortune 500 client"
+        "Performed a large-scale Azure design and implementation for a large utility company",
+        "Designed and implemented a hosted data analytics service for a Fortune 500 client",
+        "Contributed to the development and delivery of Azure-related workshops for clients"
       ],
-      "summary": "",
+      "summary": "As an Associate at PwC, I played a key role in Azure design and implementation projects.",
       "url": "https://www.pwc.com/",
       "location": "Boston, MA"
     },
@@ -82,13 +88,13 @@
       "startDate": "2013-08-31",
       "endDate": "2016-10-31",
       "highlights": [
-        "Selected and implemented VMware Horizon DaaS offering for students",
-        "Assisted in selection and responsible for implementation of VMware Disaster Recovery as a Service (vCloud DRaaS) for key services within Questrom",
-        "Assisted in planning and oversight of classroom AV modernization and standardization while introducing new collaborative spaces and technology",
-        "Implemented server administration and automation with Ansible",
+        "Implemented VMware Horizon DaaS offering for students, enhancing access to virtualized resources",
+        "Led implementation of VMware Disaster Recovery as a Service (vCloud DRaaS) for key services within Questrom",
+        "Modernized and standardized classroom AV systems while introducing new collaborative spaces and technology",
+        "Automated server administration tasks using Ansible",
         "Implemented Nagios monitoring engine for Linux and Windows servers"
       ],
-      "summary": "Responsible for the day to day operations of the Questrom School of Business' IT systems",
+      "summary": "Responsible for the day-to-day operations of the Questrom School of Business' IT systems.",
       "url": "https://questrom.bu.edu/",
       "location": "Boston, MA"
     },
@@ -117,7 +123,7 @@
     {
       "institution": "Boston University",
       "area": "Business Administration and Management, General",
-      "studyType": "BSBA",
+      "studyType": "Bachelor of Science in Business Administration (BSBA)",
       "startDate": "2009-09-01",
       "endDate": "2014-05-01",
       "score": "",
